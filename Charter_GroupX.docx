@@ -1,11 +1,30 @@
-Group 4ward
+Group Name : 4ward
 Group Members Names: Joshua Thaisananikone, Taslima Akter, Darrelle Lamar Simonton, Benjamin David Hess
-1.	Availability: Virtually after 4pm on Wednesdays over Teams or Discord
-2.	Communication: Teams group chat
+
 3.	Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
 4.	Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-5.	Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-6.	if you adopt such a policy during the initial meeting, put it here
+5.	Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) (done)
+
+Procedure for adoptiing policies:
+    Step 1: A team member calls a meeting to propose a policy
+    Step 2: The team members explain the policy proposal
+    Step 3: The whole team votes for policy
+    Step 4: If majority votes for it, then the policy is adopted. If not, then it is not adopted.
+
+General Policies:
+    1. Code style
+        All methods created should have proper documentation preceeding it. This documentation can be as simple as a
+        one-line comment. Complex methods should have documentation that explains the input and output of method.
+        We will use camelCase to name variables and methods.
+    2. Code check-in steps:
+        The team will perform a check-in at the beginning of every sprint meeting. Depending on how far people are in their
+        code, it could impact the content of the daily sprint. Impromptu code check-ins can occur if the team decides it by majority vote.
+    3. Regarding documentation updates
+        Any team members concerned about documentation should report to the team leader for discussion. A meeting may need to be call
+        to update any documentation in order to ensure there is no confusion among team members.
+
+6.	if you adopt such a policy during the initial meeting, put it here (done)
 7.	Procedure for handling a member who is not meeting expectations
+
 8.	must include at least 3 actions before involving the instructor
 9.	Signatures: each member must sign their name by typing their name at the bottom of the document.
