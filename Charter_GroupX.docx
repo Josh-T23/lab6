@@ -2,15 +2,14 @@ Group Name : 4ward
 Group Members Names: Joshua Thaisananikone, Taslima Akter, Darrelle Lamar Simonton, Benjamin David Hess
 1. Availability: Virtually Via teams on Wednesdays after 4pm
 2. Communication: Teams group chat
-3.	Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-A task is consider "Done" only when:
-  1. The documentation/code is fully implemented and tested.
-  2. It is commited and pushed to GitHub.
-  3. It has been reviewed and approved by at least one team member.
-
-4.	Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-    Scrum Meeting on Wednesdays after 4pm via Teams (approx. 30 min) to review tasks and update task board
-5.	Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) (done)
+3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+	A task is consider "Done" only when:
+  		1. The documentation/code is fully implemented and tested.
+  		2. It is commited and pushed to GitHub.
+  		3. It has been reviewed and approved by at least one team member.
+4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+	Scrum Meeting on Wednesdays after 4pm via Teams or Discord (approx. 30 min) to review tasks and update task board
+5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) (done)
 
 Procedure for adoptiing policies:
     Step 1: A team member calls a meeting to propose a policy
@@ -30,14 +29,14 @@ General Policies:
         Any team members concerned about documentation should report to the team leader for discussion. A meeting may need to be call
         to update any documentation in order to ensure there is no confusion among team members.
 
-6.	if you adopt such a policy during the initial meeting, put it here (done)
-7.	Procedure for handling a member who is not meeting expectations
+6. If you adopt such a policy during the initial meeting, put it here (done)
+7. Procedure for handling a member who is not meeting expectations
 If a team member is not fulfilling their responsibilities, the following steps will be taken:
 	1.	Step 1: Private Discussion – A teammate will talk to the member to understand any difficulties.
 	2.	Step 2: Group Discussion – The team will meet to address concerns and offer solutions.
 	3.	Step 3: Written Warning – If the issue continues, a written agreement will be made with clear expectations.
 	4.	Step 4: Instructor Involvement – If no improvement occurs, the issue will be escalated to the instructor.
 
-8.	must include at least 3 actions before involving the instructor
-9.	Signatures: each member must sign their name by typing their name at the bottom of the document.
-	Taslima Akter
+8. Must include at least 3 actions before involving the instructor
+9. Signatures: each member must sign their name by typing their name at the bottom of the document.
+	Taslima Akter, Ben Hess
